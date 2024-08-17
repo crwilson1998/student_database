@@ -1,5 +1,5 @@
 # Student Database
-This repository holds my student grades database projects
+This repository holds my student database project
 
 # Purpose
 As a final project to my Introduction to Python Fundamentals course, my task was to create a student grading database within python 
